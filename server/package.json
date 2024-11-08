@@ -23,6 +23,12 @@
     "mysql2": "^3.11.4",
     "nodemailer": "^6.9.16",
     "nodemon": "^3.1.7",
-    "otp-generator": "^4.0.1"
+    "otp-generator": "^4.0.1",
+    "sequelize": "^6.37.5"
+  },
+  "devDependencies": {
+    "@types/bcrypt": "^5.0.2",
+    "@types/express": "^5.0.0",
+    "@types/nodemailer": "^6.4.16"
   }
 }
